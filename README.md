@@ -15,7 +15,6 @@ I'm a passionate software developer with a keen interest in app development, ope
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 ## GitHub Stats
