@@ -6,10 +6,9 @@
 
 I'm a passionate software developer with a keen interest in app development, open-source projects, and continuous learning. My goal is to build efficient, scalable, and user-friendly applications.
 
-- 🌱 I’m currently learning advanced Rust and dbus
-- 👯 I’m looking to collaborate on open-source projects and innovative applications.
-- 💬 Ask me about low-level development, Rust, and C!
-- 📫 How to reach me: [adam.cosner@proton.me](mailto:adam.cosner@proton.me)
+- Passionate Rust and C developer
+- Fast Learner
+- How to reach me: [adam.cosner@pm.me](mailto:adam.cosner@pm.me)
 
 ## Languages and Tools
 
